@@ -1,1 +1,1 @@
-# git-ignore-test
+# super-team-project
